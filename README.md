@@ -1,5 +1,5 @@
-### Quantum-Teleportation
-Quantum teleportation allows the transfer of quantum states from one location to another without physically transporting the particles themselves. It relies on the principles of quantum entanglement and quantum measurement to transmit the information encoded in a quantum state.
+### Quantum Teleportation Protocol
+To transfer a quantum bit, Alice and Bob must use a third party (Telamon) to send them an entangled qubit pair. Alice then performs some operations on their qubit and sends the results to Bob over a classical communication channel. Bob then performs some operations on their end to receive Alice’s qubit.
 ### Principles of Quantum Teleportation
 - **Entanglement :**
 Entanglement occurs when the control qubit in a controlled gate is in
